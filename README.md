@@ -1,1 +1,1 @@
-"# VariousMathApplication" 
+# VariousMathApplication
