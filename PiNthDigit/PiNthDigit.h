@@ -11,6 +11,6 @@ namespace VariousMath {
 	public:
 		static VAROUSMATH_API int getNthDigit(long n);
 	private:
-		static double seriesSubSumm(int denominatorParam, long n);
+
 	};
 }

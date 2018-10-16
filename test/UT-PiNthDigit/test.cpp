@@ -1,5 +1,5 @@
 #include "pch.h"
-#include "../../PiNthDigit/PiNthDigit.h";
+#include "../../PiNthDigit/PiNthDigit.h"
 
 TEST(PiNthDigitBasicTest, HandelsPositiveInput) {
   EXPECT_EQ(VariousMath::PiDigitGenerator::getNthDigit(1), 1);
